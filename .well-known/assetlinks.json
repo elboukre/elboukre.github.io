@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.presstalis.zeens.pdif_android",
+    "sha256_cert_fingerprints":
+    ["4B:71:7A:9F:4D:24:5D:F6:B5:77:CE:93:6D:24:ED:B8:EB:1A:66:E7:56:E1:FA:E6:61:BE:64:CF:98:27:DB:E6"]
+  }
+}]
